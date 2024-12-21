@@ -5,7 +5,7 @@
 
 Бот обеспечивает мультимодальные решения для любых задач: от общения и генерации текстов до обработки медиа и программирования.
 
-<a href="https://t.me/avaisebot" style="display:inline-block;text-decoration:none;background:#8a2be2;color:#fff;padding:10px 20px;border-radius:5px;font-weight:bold;">👉🏼 Перейти в бот</a>
+<a href="https://t.me/avaisebot?start=github_statia" style="display:inline-block;text-decoration:none;background:#8a2be2;color:#fff;padding:10px 20px;border-radius:5px;font-weight:bold;">👉🏼 Перейти в бот</a>
 
 ---
 
@@ -70,7 +70,7 @@
 ---
 
 ## Как нас найти? 📲
-- Перейдите в [Telegram](https://t.me/avaisebot).
+- Перейдите в [Telegram](https://t.me/avaisebot?start=github_statia).
 - Начните общение с **OZ AVAISE ИИ Бот** прямо сейчас!
 
 ---
